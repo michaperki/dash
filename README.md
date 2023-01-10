@@ -1,2 +1,2 @@
 # dash
-BI eperimentation
+BI experimentation
